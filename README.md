@@ -94,17 +94,19 @@ Additional detections will be added as the project evolves.
 
 ---
 
-## Screenshots
+## Project Screenshots
 
-### CloudTrail Log Sample
+### CloudTrail Event History
+![CloudTrail](screenshots/cloudtrail-event-history.png)
 
-*(Add screenshot here later)*
+### Sample CloudTrail JSON Log
+![JSON](screenshots/cloudtrail-json-log.png)
+
+### Python Analyzer
+![Python](screenshots/python-execution.png)
 
 ### Generated Security Report
-
-*(Add screenshot here later)*
-
----
+![Report](screenshots/generated-security-report.png)
 
 ## Skills Demonstrated
 
