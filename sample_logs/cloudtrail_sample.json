@@ -1,0 +1,32 @@
+{
+  "Records": [
+    {
+      "eventVersion": "1.08",
+      "userIdentity": {
+        "type": "IAMUser",
+        "userName": "security-analyst"
+      },
+      "eventTime": "2026-09-08T18:30:00Z",
+      "eventSource": "ec2.amazonaws.com",
+      "eventName": "TerminateInstances",
+      "awsRegion": "us-east-1",
+      "sourceIPAddress": "203.0.113.25",
+      "userAgent": "aws-cli/2.0",
+      "requestParameters": {
+        "instanceId": "i-0123456789abcdef0"
+      }
+    },
+    {
+      "eventVersion": "1.08",
+      "userIdentity": {
+        "type": "Root"
+      },
+      "eventTime": "2026-09-08T18:35:00Z",
+      "eventSource": "iam.amazonaws.com",
+      "eventName": "CreateAccessKey",
+      "awsRegion": "us-east-1",
+      "sourceIPAddress": "198.51.100.17",
+      "userAgent": "Console"
+    }
+  ]
+}
