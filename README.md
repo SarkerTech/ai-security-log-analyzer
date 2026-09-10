@@ -135,5 +135,3 @@ Additional detections will be added as the project evolves.
 ## Author
 
 **Redoy Sarker**
-
-Cybersecurity • Cloud Security • Python • AWS
